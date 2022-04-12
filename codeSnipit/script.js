@@ -184,16 +184,3 @@ pageContentEl.addEventListener("click", taskButtonHandler);
 
 // for changing the status
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
-
-
-
-
-
-
-/*(console.log(window.document); // displays html elements
-console.dir(window.document); // displays html as DOM  elements
-window.document.querySelector("button");
-var btn = window.document.querySelector("button");
-console.dir(btn)
-document.querySelector("button").textContent;
-document.querySelector("#save-task");*/
